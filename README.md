@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Piyush Maji
 
 🎓 I'm a student passionate about **Quantum Computing**, **Physics**, and **Programming**.  
-🧠 Preparing for my Master's at IIT, aiming for roles in **ISRO, BARC, or DRDO**.  
+🧠 Doing my Master's at IIT, aiming for roles in **ISRO, BARC, or DRDO**.  
 💻 I write code in **Python**, **C**, and **C++**, and I’m exploring **Quantum Computing** with Qiskit.
 
 ---
