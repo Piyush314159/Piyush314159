@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush Maji
 
-<!--
-**Piyush314159/Piyush314159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about **Quantum Computing**, **Physics**, and **Programming**.  
+🧠 Preparing for my Master's at IIT, aiming for roles in **ISRO, BARC, or DRDO**.  
+💻 I write code in **Python**, **C**, and **C++**, and I’m exploring **Quantum Computing** with Qiskit.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+
+---
+
+## 🔭 Projects I'm Working On
+- ✅ **Quantum Gate Simulations** in Python and C++
+- ✅ **Console-based mini-games** using C++
+- 🧪 Python scripts for algorithm practice
+- 📚 Notes + code for **Quantum Algorithms**
+
+---
+
+## 🌱 Currently Learning
+- Qiskit & Quantum Circuit Design
+- Advanced C++ STL and Algorithms
+- Git & Open-Source Contribution
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:piyushmaji6595@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-maji-769aa4228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Piyush314159" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
