@@ -27,8 +27,8 @@
 ---
 
 ## 🌱 Currently Learning
-- Qiskit & Quantum Circuit Design
-- Advanced C++ STL and Algorithms
+- Qiskit & Quantum Circuit Design  
+- Advanced C++ STL and Algorithms  
 - Git & Open-Source Contribution
 
 ---
@@ -45,5 +45,10 @@
   <a href="https://github.com/Piyush314159" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/pi_yush_314/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/piyush.maji65" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
-
