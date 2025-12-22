@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Piyush Maji
 
-🎓 I'm a student passionate about **Quantum Computing**, **Physics**, and **Programming**.  
-🧠 Doing my Master's at IIT Hyderabad, aiming for roles in **Programming**.  
-💻 I write code in **Python**, **C**, and **C++**, and I’m exploring **Quantum Computing** with Qiskit.
+🎓 **MSc Physics student at IIT Hyderabad**  
+💡 Interested in **Programming, Data Science, Machine Learning, and Quantum Computing**  
+🚀 Actively preparing for **Data Science / Programming Internships**
+
+I enjoy solving problems using **Python, C/C++**, and applying my physics & math background to real-world data and algorithms.
 
 ---
 
@@ -17,22 +19,58 @@
 </p>
 
 ---
+### 📊 Data & ML *(in progress)*
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Scikit-learn (basics)
+- Statistics & Linear Algebra
 
-## 🔭 Projects I'm Working On
-- ✅ **Quantum Gate Simulations** in Python and C++
-- ✅ **Console-based mini-games** using C++
-- 🧪 Python scripts for algorithm practice
-- 📚 Notes + code for **Quantum Algorithms**
+### ⚛️ Quantum Computing
+- Qiskit
+- Quantum circuits & basic quantum algorithms
+
+### 🧰 Tools
+- Git & GitHub
+- Jupyter Notebook
+- Linux / macOS terminal
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 Projects
+
+### 📌 Programming & Algorithms
+- **Console-based mini-games (C++)** → Strengthened STL usage, logic building, and debugging skills
+- **Python algorithm practice scripts** → Focused on problem-solving, clean code, and optimization
+
+### 📌 Quantum Computing
+- Quantum Gate Simulations (Python & C++)
+- Quantum circuit implementations using Qiskit
+- Notes + code for basic quantum algorithms
+
+*(Currently working on integrating data analysis and ML projects)*
+
+---
 - Qiskit & Quantum Circuit Design  
 - Advanced C++ STL and Algorithms  
 - Git & Open-Source Contribution
 
 ---
+## 🌱 Currently Learning
+- Pandas & NumPy for data analysis
+- Data visualization & EDA techniques
+- Machine Learning fundamentals
+- Advanced C++ STL
+- GitHub & open-source contribution workflow
 
+---
+
+## 🎯 Career Interests
+- Data Science Intern
+- Data Analyst Intern
+- Programming / Software Intern
+- Research roles involving ML + Physics / Quantum
+
+---
 ## 📫 Connect With Me
 
 <p align="left">
