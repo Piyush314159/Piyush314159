@@ -1,76 +1,159 @@
 # 👋 Hi, I'm Piyush Maji
 
 🎓 **MSc Physics student at IIT Hyderabad**  
-💡 Interested in **Programming, Data Science, Machine Learning, and Quantum Computing**  
-🚀 Actively preparing for **Data Science / Programming Internships**
+💡 Working at the intersection of **Physics, Computation, and Machine Learning**  
+🔬 Current focus: **High-Energy Physics · Graph Neural Networks · Belle II**  
+🚀 Open to **research internships, academic collaborations, and data science roles**
 
-I enjoy solving problems using **Python, C/C++**, and applying my physics & math background to real-world data and algorithms.
+I build numerical simulations, statistical models, and machine learning systems to extract physical insight from complex, high-dimensional data.
 
 ---
 
 ## 🛠️ Skills
 
-### Programming Languages  
+### Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
+### Proficiency
+| Skill | Level |
+|---|---|
+| Python | 85% |
+| NumPy / Pandas | 80% |
+| Scientific Computing | 78% |
+| LaTeX | 75% |
+| Machine Learning | 65% |
+| C | 55% |
+
 ---
-### 📊 Data & ML *(in progress)*
-- NumPy, Pandas
-- Matplotlib, Seaborn
-- Scikit-learn (basics)
-- Statistics & Linear Algebra
 
-### ⚛️ Quantum Computing
-- Qiskit
-- Quantum circuits & basic quantum algorithms
+### 📊 Data & ML
+- NumPy, Pandas, Matplotlib
+- Scikit-Learn (Classification, Regression, Model Evaluation, Preprocessing)
+- PyTorch *(learning)*
+- Statistical Inference & Time-Series Analysis
+- ODE / PDE Modeling
 
-### 🧰 Tools
-- Git & GitHub
+### ⚛️ Physics & Research
+- Computational Fluid Dynamics
+- Stochastic & Brownian Motion Modeling
+- Epidemic / Compartmental Dynamics (SIR/SIRS)
+- High-Energy Physics (Belle II)
+- GNN-based Event Reconstruction
+
+### 🧰 Tools & Certifications
+- Git & GitHub / Version Control
 - Jupyter Notebook
-- Linux / macOS terminal
+- Linux Terminal
+- ML Fundamentals — DataCamp ✅
+- Scientific Writing & Research Documentation
 
 ---
 
 ## 🔭 Projects
 
-### 📌 Programming & Algorithms
-- **Console-based mini-games (C++)** → Strengthened STL usage, logic building, and debugging skills
-- **Python algorithm practice scripts** → Focused on problem-solving, clean code, and optimization
+### 📌 01 · Voice Assistant with AI Integration
+A modular Python-based voice assistant **Friday** featuring wake-word detection, speech recognition, TTS, and AI-based conversational fallback. Designed with a multithreaded architecture for real-time responsiveness.
 
-### 📌 Quantum Computing
-- Quantum Gate Simulations (Python & C++)
-- Quantum circuit implementations using Qiskit
-- Notes + code for basic quantum algorithms
-
-*(Currently working on integrating data analysis and ML projects)*
+`Python` `SpeechRecognition` `pyttsx3` `Multithreading`
 
 ---
-- Qiskit & Quantum Circuit Design  
-- Advanced C++ STL and Algorithms  
-- Git & Open-Source Contribution
+
+### 📌 02 · Brownian Motion Computational Modeling
+Simulated stochastic particle trajectories and computed Mean Squared Displacement (MSD) to classify diffusive regimes using log–log regression. Validated results against theoretical predictions.
+
+`Python` `NumPy` `Pandas` `Regression`
+
+> 👨‍🏫 Supervised by Prof. Anupam Gupta, IIT Hyderabad
 
 ---
-## 🌱 Currently Learning
-- Pandas & NumPy for data analysis
-- Data visualization & EDA techniques
-- Machine Learning fundamentals
-- Advanced C++ STL
-- GitHub & open-source contribution workflow
+
+### 📌 03 · Epidemic Modeling via Compartmental Dynamics
+Implemented SIR and SIRS epidemic models using systems of ODEs. Analyzed transmission thresholds and equilibrium stability through numerical simulations and phase-space visualization.
+
+`Python` `ODE Solvers` `Numerical Analysis`
+
+> 👨‍🏫 Supervised by Prof. Anupam Gupta, IIT Hyderabad
+
+---
+
+## 🎓 Experience & Education
+
+| Period | Role / Degree | Organisation |
+|---|---|---|
+| 2025 – Present | M.Sc. Physics | IIT Hyderabad |
+| 2025 – Present | HEP & ML Research | Under Prof. Sourav Sandilya, IIT Hyderabad |
+| Ongoing | Coordinator – International Relations Cell | IIT Hyderabad |
+
+**Research Focus:** GNNs and ML approaches for detector-level representations, decay topology reconstruction, and ML-driven full event interpretation inspired by Belle II analyses.
+
+**Leadership:** Coordinated orientations, cultural programs, multimedia outreach, and outbound academic tours for international exchange students from Japan and the United States.
+
+---
+
+## 🗺️ Learning Journeys
+
+### 🤖 ML Journey — DataCamp Roadmap
+
+| # | Course | Status |
+|---|---|---|
+| 01 | Supervised Learning with Scikit-Learn | 🟡 67% |
+| 02 | Unsupervised Learning in Python | ⬜ Pending |
+| 03 | Deep Learning with PyTorch | ⬜ Pending |
+| 04 | Reinforcement Learning with Gymnasium | ⬜ Pending |
+
+**Libraries:** Python · NumPy · Pandas · Scikit-Learn · Matplotlib · PyTorch · Gymnasium
+
+---
+
+### ⚡ DSA Journey — Striver A2Z Sheet (Python)
+
+**Overall Progress: 2 / 17 topics · 11.8% complete**
+
+| Topic | Status |
+|---|---|
+| Basics | 🟡 In Progress |
+| Sorting | ✅ Completed |
+| Arrays | ⬜ Pending |
+| Binary Search | ⬜ Pending |
+| Strings | ⬜ Pending |
+| Linked List | ⬜ Pending |
+| Recursion | ⬜ Pending |
+| Bit Manipulation | ⬜ Pending |
+| Stack & Queue | ⬜ Pending |
+| Two Pointers | ⬜ Pending |
+| Heaps | ⬜ Pending |
+| Greedy | ⬜ Pending |
+| Binary Tree | ⬜ Pending |
+| Binary Search Tree | ⬜ Pending |
+| Graphs | ⬜ Pending |
+| Dynamic Programming | ⬜ Pending |
+| Trie | ⬜ Pending |
+
+**Goals:** Solve 200+ problems · Master key patterns · Crack coding interviews · Sharpen algorithmic thinking
+
+---
+
+## 🌱 Research Interests
+
+- High-Energy Physics (Belle II)
+- GNN-based Event Reconstruction
+- Time-Series & Stochastic Analysis
+- Computational Fluid Dynamics
 
 ---
 
 ## 🎯 Career Interests
-- Data Science Intern
-- Data Analyst Intern
-- Programming / Software Intern
-- Research roles involving ML + Physics / Quantum
+
+- Research Internships (HEP / ML / Computational Physics)
+- Data Science / Data Analyst roles
+- Academic Collaborations in Physics + ML
 
 ---
+
 ## 📫 Connect With Me
 
 <p align="left">
@@ -90,3 +173,7 @@ I enjoy solving problems using **Python, C/C++**, and applying my physics & math
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
+
+---
+
+*MSc Physics · IIT Hyderabad · Open to collaborations*
